@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Timeless Flower",
+  "base_artist": "ChroNoiR",
+  "createdAt": "2026-03-30T13:19:17.502737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Timeless Flower",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/01_Timeless_Flower_ChroNoiR.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Timeless Melody",
+      "artist": "The La's",
+      "has_synced": true,
+      "path": "select/02_Timeless_Melody_The_La's.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Timeless",
+      "artist": "Goldie",
+      "has_synced": true,
+      "path": "select/03_Timeless_Goldie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Timeless",
+      "artist": "Tee Grizzley",
+      "has_synced": true,
+      "path": "select/04_Timeless_Tee_Grizzley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Timeless (feat. DJ SPINKING)",
+      "artist": "A Boogie wit da Hoodie",
+      "has_synced": true,
+      "path": "select/05_Timeless_(feat._DJ_SPINKING)_A_Boogie_wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Timeless (DJ SPINKING)",
+      "artist": "A Boogie Wit da Hoodie",
+      "has_synced": true,
+      "path": "select/06_Timeless_(DJ_SPINKING)_A_Boogie_Wit_da_Hoodie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Timeless - Extended Instrumental Version",
+      "artist": "Kate Havnevik",
+      "has_synced": false,
+      "path": "select/07_Timeless_-_Extended_Instrumental_Version_Kate_Havnevik.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Timeless",
+      "artist": "BONES",
+      "has_synced": false,
+      "path": "select/08_Timeless_BONES.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Timeless Flogging",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/09_Timeless_Flogging_Napalm_Death.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Bonding (Part 2) - V. The Timeless Now - Finale",
+      "artist": "Edenbridge",
+      "has_synced": false,
+      "path": "select/10_The_Bonding_(Part_2)_-_V._The_Timeless_Now_-_Finale_Edenbridge.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Timeless Waning",
+      "artist": "Sirenia",
+      "has_synced": true,
+      "path": "select/11_The_Timeless_Waning_Sirenia.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Timeless Oceans",
+      "artist": "Luca Turilli",
+      "has_synced": true,
+      "path": "select/12_Timeless_Oceans_Luca_Turilli.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Timeless",
+      "artist": "H' & Them",
+      "has_synced": false,
+      "path": "select/13_Timeless_H'_&_Them.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Timeless",
+      "artist": "James Blake",
+      "has_synced": true,
+      "path": "select/14_Timeless_James_Blake.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Life Is Just a Timeless Motion",
+      "artist": "The Timewriter",
+      "has_synced": false,
+      "path": "select/15_Life_Is_Just_a_Timeless_Motion_The_Timewriter.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One-Oh-Three (Timeless Edit)",
+      "artist": "Xerxes",
+      "has_synced": false,
+      "path": "select/16_One-Oh-Three_(Timeless_Edit)_Xerxes.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Timeless Flower",
+      "artist": "ChroNoiR",
+      "has_synced": false,
+      "path": "select/pl_01_Timeless_Flower_ChroNoiR.txt"
+    }
+  ]
+}
